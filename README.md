@@ -4,11 +4,11 @@ A Caesar Cipher works by shifting each letter in the string iN places in the alp
 Punctuation, spaces, and copitalization should remain intact. 
 For example if the string is "Caesar Cipher” and num is 2 the output should be "Ecguct Ekrjgt”
 
-Examples :
-
-Input : "Hello" & num = 4
+Examples :<br/>
+<br/>
+Input : "Hello" & num = 4 <br/>
 Output : Lipps
-
-
-Input : "abc" & num = 0
+<br/>
+<br/>
+Input : "abc" & num = 0 <br/>
 Output : abc
